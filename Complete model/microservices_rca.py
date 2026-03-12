@@ -2,7 +2,6 @@
 # microservices_rca.py
 # "Learning Failure Propagation in Microservices for
 #  Anomaly Detection and Root Cause Analysis"
-# Aditi Singarajipura, Avinash HM, Pethuru Raj
 #
 # Single-file, Google Colab CPU-compatible implementation.
 # Tested on: Python 3.10 | PyTorch 2.0 | scikit-learn 1.3 |
